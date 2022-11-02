@@ -1,0 +1,23 @@
+{
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "grid-size" : "regular"
+  },
+  "stickers" : [
+    {
+      "filename" : "ven.sticker"
+    },
+    {
+      "filename" : "pidgo.sticker"
+    },
+    {
+      "filename" : "squ.sticker"
+    },
+    {
+      "filename" : "char.sticker"
+    }
+  ]
+}
